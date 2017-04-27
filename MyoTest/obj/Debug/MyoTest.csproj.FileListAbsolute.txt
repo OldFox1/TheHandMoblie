@@ -1,0 +1,8 @@
+c:\users\barak\documents\visual studio 2017\Projects\MyoTest\MyoTest\obj\Debug\MyoTest.csprojResolveAssemblyReference.cache
+c:\users\barak\documents\visual studio 2017\Projects\MyoTest\MyoTest\bin\Debug\MyoTest.exe.config
+c:\users\barak\documents\visual studio 2017\Projects\MyoTest\MyoTest\bin\Debug\MyoTest.exe
+c:\users\barak\documents\visual studio 2017\Projects\MyoTest\MyoTest\bin\Debug\MyoTest.pdb
+c:\users\barak\documents\visual studio 2017\Projects\MyoTest\MyoTest\bin\Debug\Myo.Net.dll
+c:\users\barak\documents\visual studio 2017\Projects\MyoTest\MyoTest\bin\Debug\Myo.Net.xml
+c:\users\barak\documents\visual studio 2017\Projects\MyoTest\MyoTest\obj\Debug\MyoTest.exe
+c:\users\barak\documents\visual studio 2017\Projects\MyoTest\MyoTest\obj\Debug\MyoTest.pdb
