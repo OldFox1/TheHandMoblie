@@ -39,9 +39,13 @@ namespace TheHandMobile
             sendCommand("left");
         }
 
+        public void stop()
+        {
+            sendCommand("stop");
+        }
+
         private void sendCommand(string resourceName)
         {
-
             var request = new RestRequest(resourceName, Method.POST);
             client.Execute(request);
 
